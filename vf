@@ -1,0 +1,17 @@
+[1mdiff --git a/dir1/new01.txt b/dir1/new01.txt[m
+[1mindex eee417f..0599bd6 100644[m
+[1m--- a/dir1/new01.txt[m
+[1m+++ b/dir1/new01.txt[m
+[36m@@ -1 +1 @@[m
+[31m-new text[m
+[32m+[m[32mnew text![m
+[1mdiff --git a/dir1/result.txt b/dir1/result.txt[m
+[1mindex 67b7388..dc81116 100644[m
+[1m--- a/dir1/result.txt[m
+[1m+++ b/dir1/result.txt[m
+[36m@@ -2,4 +2,5 @@[m [mProperty np is[m
+ Property np2 is [m
+ Property np3 is [m
+ new change[m
+[32m+[m[32m2nd change[m
+ [m
