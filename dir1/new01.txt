@@ -1,1 +1,2 @@
-new text!
+new added text!
+new text2

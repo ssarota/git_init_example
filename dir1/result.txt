@@ -1,5 +1,5 @@
 Property np is 
 Property np2 is 
-new change
 2nd change
+new text3
 
